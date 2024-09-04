@@ -28,6 +28,7 @@
             numpy
             pandas
             pynvim
+            scikit-fuzzy
           ]))
         ];
         shellHook = "";
